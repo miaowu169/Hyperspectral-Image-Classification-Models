@@ -95,4 +95,18 @@ A-Triple-Path-Spectral-Spatial-Network-with-Interleave-Attention-for-Hyperspectr
 * morphFormer   
 Spectral–Spatial Morphological Attention Transformer for Hyperspectral Image Classification  
 * pResNet-HSI  
-Deep Pyramidal Residual Networks for Hyperspectral Image Classification  
+Deep Pyramidal Residual Networks for Hyperspectral Image Classification 
+*Hyperspectral-image-classification
+1.SVM(linear, RBF and poly kernels with grid search)
+2.SGD (linear SVM using stochastic gradient descent for fast optimization)
+3.baseline neural network (4 fully connected layers with dropout)
+4.1D CNN (Deep Convolutional Neural Networks for Hyperspectral Image Classification, Hu et al., Journal of Sensors 2015)
+5.Semi-supervised 1D CNN (Autoencodeurs pour la visualisation d'images hyperspectrales, Boulch et al., GRETSI 2017)
+6.2D CNN (Hyperspectral CNN for Image Classification & Band Selection, with Application to Face Recognition, Sharma et al, technical report 2018)
+7.Semi-supervised 2D CNN (A semi-supervised Convolutional Neural Network for Hyperspectral Image Classification, Liu et al, Remote Sensing Letters 2017)
+8.3D CNN (3-D Deep Learning Approach for Remote Sensing Image Classification, Hamida et al., TGRS 2018)
+9.3D FCN (Contextual Deep CNN Based Hyperspectral Classification, Lee and Kwon, IGARSS 2016)
+10.3D CNN (Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks, Chen et al., TGRS 2016)
+11.3D CNN (Spectral–Spatial Classification of Hyperspectral Imagery with 3D Convolutional Neural Network, Li et al., Remote Sensing 2017)
+12.3D CNN (HSI-CNN: A Novel Convolution Neural Network for Hyperspectral Image, Luo et al, ICPR 2018)
+13.Multi-scale 3D CNN (Multi-scale 3D Deep Convolutional Neural Network for Hyperspectral Image Classification, He et al, ICIP 2017)
